@@ -1,3 +1,7 @@
+// CPSC131HW2
+// William LUa
+// Kingsley Xie
+
 #include <iostream>
 #include <string>
 #include <vector>
