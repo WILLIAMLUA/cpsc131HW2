@@ -5,6 +5,7 @@
 
 using namespace std;
 
+// Functions
 void createVec(vector<vector131>&);
 void showVec(const vector<vector131>&);
 
@@ -19,6 +20,8 @@ int main()
 }
 
 //Create Vector Function:
+// Collect User data
+
 void createVec(vector<vector131>& newVec){
 
     //Variables
@@ -48,7 +51,7 @@ void createVec(vector<vector131>& newVec){
 
 
 }
-
+// Displays user data
 void showVec(const vector<vector131>& newVec){
 
     unsigned int vecSize = newVec.size();
